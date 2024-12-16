@@ -1,7 +1,7 @@
 ## Hello there 👋✨
 I’m an Azure and DevOps enthusiast with over 15 years of industry experience, specialising in infrastructure automation, cloud modernisation, and enterprise DevOps solutions. My expertise lies in driving CI/CD pipelines, managing infrastructure as code (IaC), and crafting seamless cloud service integrations. 🚀
 
-![tw3veparsecs AI profile pic](https://github.com/user-attachments/assets/6a225c6d-a3de-4952-876d-d65382627ab7)
+![tw3lveparsecs ai profile pic](https://github.com/user-attachments/assets/638baf8f-ac67-446a-80c4-eb917915b287)
 
 #### What I do best:
 
