@@ -1,6 +1,8 @@
 ## Hello there 👋✨
 I’m an Azure and DevOps enthusiast with over 15 years of industry experience, specialising in infrastructure automation, cloud modernisation, and enterprise DevOps solutions. My expertise lies in driving CI/CD pipelines, managing infrastructure as code (IaC), and crafting seamless cloud service integrations. 🚀
 
+![tw3veparsecs AI profile pic](https://github.com/user-attachments/assets/6a225c6d-a3de-4952-876d-d65382627ab7)
+
 #### What I do best:
 
 - 🌟 Designing and implementing robust cloud infrastructure for enterprise clients
@@ -29,8 +31,8 @@ I’m an Azure and DevOps enthusiast with over 15 years of industry experience, 
 #### Outside the Cloud:
 I’m a proud Star Wars nerd ✨🪐 who enjoys geeking out with my family and friends. Whether it’s diving into the latest Azure updates, experimenting with GitHub features, or sharing fun sci-fi trivia, I bring the same passion and curiosity to everything I do.
 
-- ⚔️ Favorite Star Wars Movie: Star Wars Episode V: The Empire Strikes Back
-- 🛰️ Current Side Quest: Re-watching the original Star Wars trilogy while coding!
+- ⚔️ **Favorite Star Wars Movie**: Star Wars Episode V: The Empire Strikes Back
+- 🛰️ **Current Side Quest**: Re-watching the original Star Wars trilogy while coding!
 
 Let’s connect and build something amazing together! 🌟
 
